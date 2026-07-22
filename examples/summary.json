@@ -1,0 +1,21 @@
+{
+  "mqtt_connected": true,
+  "updated_at": "2026-07-22T16:30:00Z",
+  "date": "2026-07-22",
+  "partial_day": true,
+  "live": {
+    "pv_w": 7420,
+    "load_w": 3810,
+    "battery_v": 53.2,
+    "battery_w": 1210,
+    "grid_w": 0
+  },
+  "today": {
+    "pv_kwh": 32.6,
+    "load_kwh": 28.4,
+    "battery_in_kwh": 12.0,
+    "battery_out_kwh": 8.7,
+    "grid_in_kwh": 0.0,
+    "grid_out_kwh": 0.0
+  }
+}

@@ -1,0 +1,25 @@
+# Garmin build outputs
+bin/
+build/
+*.prg
+*.iq
+
+# Developer/signing keys
+*.key
+*.der
+*.pem
+*.p12
+*.pfx
+
+# Local configuration containing the bridge token
+source/SolarConfig.mc
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local archives and logs
+*.zip
+*.log

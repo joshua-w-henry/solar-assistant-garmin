@@ -1,0 +1,40 @@
+<complications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
+    <complication
+        id="0"
+        access="public"
+        longLabel="@Strings.LoadLongLabel"
+        shortLabel="@Strings.LoadShortLabel"
+        icon="@Drawables.LoadComplication"
+        glancePreview="true">
+        <faceIt defaultText="@Strings.LoadLongLabel" />
+    </complication>
+
+    <complication
+        id="1"
+        access="public"
+        longLabel="@Strings.PvLongLabel"
+        shortLabel="@Strings.PvShortLabel"
+        icon="@Drawables.PvComplication">
+        <faceIt defaultText="@Strings.PvLongLabel" />
+    </complication>
+
+    <complication
+        id="2"
+        access="public"
+        longLabel="@Strings.PvTodayLongLabel"
+        shortLabel="@Strings.PvTodayShortLabel"
+        icon="@Drawables.PvTodayComplication">
+        <faceIt defaultText="@Strings.PvTodayLongLabel" />
+    </complication>
+
+    <complication
+        id="3"
+        access="public"
+        longLabel="@Strings.BatteryVoltageLongLabel"
+        shortLabel="@Strings.BatteryVoltageShortLabel"
+        icon="@Drawables.BatteryVoltageComplication">
+        <faceIt defaultText="@Strings.BatteryVoltageLongLabel" />
+    </complication>
+</complications>

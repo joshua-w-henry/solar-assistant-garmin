@@ -1,0 +1,13 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">Solar Assistant Garmin</string>
+
+
+    <string id="LoadLongLabel">Current Load</string>
+    <string id="LoadShortLabel">LOAD</string>
+    <string id="PvLongLabel">Current PV</string>
+    <string id="PvShortLabel">PV</string>
+    <string id="PvTodayLongLabel">PV Produced Today</string>
+    <string id="PvTodayShortLabel">TODAY</string>
+    <string id="BatteryVoltageLongLabel">Battery Voltage</string>
+    <string id="BatteryVoltageShortLabel">BAT</string>
+</strings>
